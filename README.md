@@ -6,6 +6,9 @@
 
 `react-native-svg` is built to provide a SVG interface to react native on both iOS and Android
 
+
+This is a fork of `react-native-svg` V4.3.0. It works with `react-native` V0.35.0.
+
 # IMPORTANT：
 
 `react-native-svg` **NO LONGER rely on ReactNativeART**, it has its own native code dependency now (which is based on ReactNativeART code but support more SVG features)
